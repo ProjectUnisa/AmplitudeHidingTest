@@ -15,7 +15,7 @@ sudo make
 mv  frontend decode_frontend
 ```
 
-### ForEncoding
+### For Encoding
 In AmplitudeHidingTest
 ```
 mv encode_frontend frontend
@@ -26,6 +26,6 @@ sudo make
 ./lame -s textToHiding -f test -e or ./lame -s textToHiding -f cello
 mv  frontend encode_frontend
 ```
-### File for test
+### File for test encoding
 *test.wav*
 *cello.wav*
