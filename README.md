@@ -29,3 +29,6 @@ mv  frontend encode_frontend
 ### File for test encoding
 *test.wav*
 *cello.wav*
+
+### Documentation File
+APIDoc
